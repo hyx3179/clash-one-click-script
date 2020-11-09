@@ -1,0 +1,1 @@
+curl https://github.com/Dreamacro/maxmind-geoip/releases/latest/download/Country.mmdb -OutFile "clash/Country.mmdb" -Proxy http://127.0.0.1:7890
